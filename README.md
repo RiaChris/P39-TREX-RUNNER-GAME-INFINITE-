@@ -1,1 +1,1 @@
-# P39-TREX-RUNNER-GAME-INFINITE-
+# Infinite-Trex-Game
